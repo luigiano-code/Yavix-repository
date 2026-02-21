@@ -1,2 +1,2 @@
-# lightix-repository
-It is a repo made for my linux distro
+# Yavix-repository
+It is a repository made for my linux distro
